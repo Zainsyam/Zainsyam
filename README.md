@@ -27,7 +27,7 @@
 
 ##### Connact With Me
 
-[![https://www.instagram.com/symln.z_76/](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev) [![\[https://www.linkedin.com/in/moh-syamlan-z-1a44562b7/](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
+[![https://www.instagram.com/symln.z_76/](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/symln.z_76/) [![\[https://www.linkedin.com/in/moh-syamlan-z-1a44562b7/](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/moh-syamlan-z-1a44562b7/)
 <!-- ![Mygithub stats](https://github-readme-stats.vercel.app/api?username=Zainsyam&hide=contribs,prs) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
